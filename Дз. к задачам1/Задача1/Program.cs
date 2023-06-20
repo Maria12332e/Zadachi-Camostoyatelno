@@ -6,7 +6,7 @@
 
 
 //Console.Write(5 + " 11 1025");
-Console.Write("5 11 " + 1025);
+Console.Write("5  11  " + 1025);
 // Console.Write(5 + " " + 11 + " " + 1025);
 // Console.WriteLine("5 11 1025");
 // Console.WriteLine(5 + " " + 11 + " " + 1025);
